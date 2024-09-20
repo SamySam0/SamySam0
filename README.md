@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @SamySam0
 - 👀 I’m interested in Natural Language Processing, Reinforcement Learning and AI for Healthcare
-- 🌱 I’m currently studying a BSc Artificial Intelligence at the University of Manchester
-- 💞️ I’m looking to collaborate on every single thing that will make the world better!
+- 🌱 I’m currently studying an MPhil in Machine Learning and Machine Intelligence at the University of Cambridge
 - 📫 How to reach me? *belkadisamuel@gmail.com* (:
